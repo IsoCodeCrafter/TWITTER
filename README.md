@@ -1,4 +1,4 @@
-![](twitt.gif)# 
+![](screen1.gif)# 
 
 # Authentication
 
